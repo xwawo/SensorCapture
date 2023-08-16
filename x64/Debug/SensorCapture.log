@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\walid\Documents\SpeedDreams\src\modules\sensors\mindwave\mindwave.cpp(50,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\walid\Documents\SpeedDreams\src\modules\sensors\mindwave\mindwave.cpp(63,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\walid\Documents\SpeedDreams\src\modules\sensors\mindwave\mindwave.cpp(64,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\walid\Documents\SpeedDreams\src\modules\sensors\mindwave\mindwave.cpp(85,38): warning C4101: 'e': unreferenced local variable
+  SensorCapture.vcxproj -> C:\Users\walid\source\repos\SensorCapture\x64\Debug\SensorCapture.exe
