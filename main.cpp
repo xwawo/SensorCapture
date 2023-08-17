@@ -29,7 +29,6 @@ int main()
             }
         }
 
-        // Your application's logic here (you might want to add a delay or other processing)
     }
 
     // Join the threads to ensure they finish properly before exiting
